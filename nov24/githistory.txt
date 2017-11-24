@@ -1,0 +1,55 @@
+    1  pwd
+    2  cd git
+    3  cd ../git1
+    4  pwd
+    5  git status
+    6  git branch
+    7  ls
+    8  git remote add origin git@github.com:kumarpv/nov22.git
+    9  git push -u origin master
+   10  git remote add origin https://github.com/kumarpv/nov22.git
+   11  git push -u origin master
+   12  git push -u origin master
+   13  git push -u origin master
+   14  git remote -v
+   15  git push -u origin master
+   16  sudo git push -u origin master
+   17  ssh -vT git@github.com
+   18  git remote set-url origin https://github.com/kumarpv/nov22.git
+   19  git remote -v
+   20  get push
+   21  git push
+   22  git push -u origin master
+   23  git branch
+   24  git repo
+   25  git remote
+   26  get pull
+   27  git pull
+   28  ls
+   29  git branch
+   30  git checkout -b n22branch
+   31  git branch
+   32  git push
+   33  git push origin n22branch 
+   34  touch test6.txt
+   35  echo "test6 file" >> test6.txt
+   36  git commit -m "test6 file"
+   37  git add .
+   38  git status
+   39  git commit -m "test6 file"
+   40  git status
+   41  git branch
+   42  cd ..
+   43  git branch
+   44  pwd
+   45  cd git1
+   46  git merge master 
+   47  git checkout master
+   48  git merge n22branch
+   49  git branch
+   50  ls
+   51  git push remote origin
+   52  git push 
+   53  history
+   54  echo remote set-url
+   55  history > githistory.txt
